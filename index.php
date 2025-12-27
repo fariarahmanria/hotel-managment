@@ -138,44 +138,29 @@
         <img src="rooms/1.jpg" class="card-img-top">
 
    <div class="card-body">
-   <h5> Simple Room Name</h5>
+   <h5> Simple Room </h5>
    <h6 class="mb-4"> ৳ 2000 per night</h6>
    <div class="features mb-4">
     <h6 class="mb-1">Features</h6>
     <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        2 Rooms 
+         Rooms 
       </span>
      <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        1 Washroom
+         Washroom
       </span>
       <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        1 Balcony
+         Balcony
       </span>
       </div>
       
-        <div class="facilities mb-4">
-          <h6 class="mb-1">Facilities</h6>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Wifi
-          </span>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Tv
-          </span>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Ac
-         </span>
-         <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-         Room heater
-         </span>
-      </div>
-
+       
       <div class="guest mb-4">
          <h6 class="mb-1">Guests</h6>
      <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        5 Adults
+        2 Adults
       </span>
      <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        3 children
+        1 children
       </span>
       </div>
 
@@ -191,7 +176,7 @@
       <div class="d-flex justify-content-evenly mb-2">
 
    <a href="#" class="btn btn-sm text-white custom-bg shadow-none">Book Now</a>
-   <a href="#" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
+   <a href="rooms.php#room1" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
   
          </div>
         </div>
@@ -204,7 +189,7 @@
    <img src="rooms/1.jpg" class="card-img-top">
 
        <div class="card-body">
-       <h5> Simple Room Name</h5>
+       <h5> Deluxe Room </h5>
        <h6 class="mb-4"> ৳ 2000 per night</h6>
        <div class="features mb-4">
        <h6 class="mb-1">Features</h6>
@@ -218,21 +203,7 @@
         1 Balcony
       </span>
       </div>
-         <div class="facilities mb-4">
-          <h6 class="mb-1">Facilities</h6>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Wifi
-          </span>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Tv
-          </span>
-          <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-          Ac
-         </span>
-         <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-         Room heater
-         </span>
-      </div>
+        
 
        <div class="guest mb-4">
          <h6 class="mb-1">Guests</h6>
@@ -251,12 +222,13 @@
     <i class="bi bi-star-fill text-warning"></i>
     <i class="bi bi-star-fill text-warning"></i>
     <i class="bi bi-star-fill text-warning"></i>
+    <i class="bi bi-star-half text-warning"></i>
     </span>
       </div>
       <div class="d-flex justify-content-evenly mb-2">
 
    <a href="#" class="btn btn-sm text-white custom-bg shadow-none">Book Now</a>
-   <a href="#" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
+   <a href="rooms.php#room2" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
   
    </div>
   </div>
@@ -268,7 +240,7 @@
    <img src="rooms/1.jpg" class="card-img-top">
 
    <div class="card-body">
-   <h5> Simple Room Name</h5>
+   <h5> Royal Room</h5>
    <h6 class="mb-4"> ৳ 2000 per night</h6>
    <div class="features mb-4">
     <h6 class="mb-1">Features</h6>
@@ -282,21 +254,7 @@
         1 Balcony
       </span>
       </div>
-      <div class="facilities mb-4">
-         <h6 class="mb-1">Facilities</h6>
-     <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        Wifi
-      </span>
-     <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        Tv
-      </span>
-       <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        Ac
-      </span>
-        <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
-        Room heater
-      </span>
-      </div>
+      
 
        <div class="guest mb-4">
          <h6 class="mb-1">Guests</h6>
@@ -316,12 +274,13 @@
     <i class="bi bi-star-fill text-warning"></i>
     <i class="bi bi-star-fill text-warning"></i>
     <i class="bi bi-star-fill text-warning"></i>
+    <i class="bi bi-star-fill text-warning"></i>
     </span>
       </div>
       <div class="d-flex justify-content-evenly mb-2">
 
       <a href="#" class="btn btn-sm text-white custom-bg shadow-none">Book Now</a>
-      <a href="#" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
+      <a href="rooms.php#room3" class="btn btn-sm btn-outline-dark shadow-none">More details</a>
   
       </div>
       </div>
